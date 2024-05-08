@@ -1,0 +1,20 @@
+1. Her project with submission deadline April 6th.
+2. Multivariate Analysis
+3. Time Series Analysis
+
+Abstract:
+The State of Berlin has access to varied data from different sources, which poses the challenge of finding and identifying correct and complete information. Data search can be time-consuming, and potentially relevant information may be overlooked. The project "Integrated Social and Financial Planning (SoFinData)" pursues the vision of a forward-looking planning and control basis, nationally and across sectors, with a budgetary reference. The focus is on social spending in the areas of care, integration assistance, and education support. As part of the project, a data platform is to be created, which will contain a harmonized database and serve as support for effectively managing social spending in terms of resources.
+
+Objective: Development of effective spending control in the field of education support: creation of exploratory, analytical, and predictive data within SoFinData.
+
+Tasks:
+
+1. Identify, obtain, make measurable/quantify potential influencing factors: at least quantities, compensations, laws, sociodemographic and economic factors.
+
+2. Multivariate analyses, correlation analysis, time-lag analyses, management of ongoing effects within the year.
+
+3. Validate models based on the past, identify trends/management possibilities, develop forecasting models.
+
+
+
+
